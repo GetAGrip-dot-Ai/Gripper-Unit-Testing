@@ -4,9 +4,9 @@
 
 ### Force_Data_Processing.py
 Reads force data sent over serial from Arduino, and generates a .csv and jpeg of the trial run. 
-<br>
+<br><br>
 ![force-reading](https://github.com/artrela/Gripper-Unit-Testing/blob/main/example_plot.jpeg)
-<br>
+<br><br>
 *Fig. Example force reading generated from Force_Data_Processing.py*
 <br>
 ### Force_Testing.ino
